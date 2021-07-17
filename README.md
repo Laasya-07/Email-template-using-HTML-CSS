@@ -4,3 +4,4 @@ This is a sample email template made for a blog in uplers.com done entirely usin
 It is a simple template which can be used for email platforms such as Gmail.
 
 Kindly download this to your local and double click on the emailtemplate.html to view the template design.
+*Then Click on Read More to redirect to the website blog.*
